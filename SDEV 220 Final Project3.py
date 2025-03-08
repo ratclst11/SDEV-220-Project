@@ -1,3 +1,12 @@
+""" 
+Shaun Ratcliff
+3/8/25  
+SDEV 220 Final Project
+Program will be used by a manufacturing company. The system will use a GUI for entering information. 
+Enter data from the alignment of a product at the factory for future field support, if any issues occur when the product is put into service. 
+"""
+
+
 import tkinter as tk
 from tkinter import ttk
 from openpyxl import Workbook, load_workbook
